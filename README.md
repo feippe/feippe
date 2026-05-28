@@ -42,9 +42,9 @@ Currently studying **Software Development** at Brigham Young University – Idah
 
 ## GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=feippe&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feippe&layout=compact&hide_border=true)
+![Repos](https://img.shields.io/badge/Repositories-27-1F4E79?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-growing-2E75B6?style=flat-square&logo=github)
+![Languages](https://img.shields.io/badge/Top%20Language-C%23%20%7C%20JavaScript-success?style=flat-square)
 
 ---
 
