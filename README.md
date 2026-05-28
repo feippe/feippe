@@ -42,9 +42,9 @@ Currently studying **Software Development** at Brigham Young University – Idah
 
 ## GitHub Stats
 
-![Repos](https://img.shields.io/badge/Repositories-27-1F4E79?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-growing-2E75B6?style=flat-square&logo=github)
-![Languages](https://img.shields.io/badge/Top%20Language-C%23%20%7C%20JavaScript-success?style=flat-square)
+![Repos](https://img.shields.io/badge/Repositories-27-1F4E79?style=flat-square&logo=github&logoColor=white)
+![Language](https://img.shields.io/badge/Top%20Language-C%23%20%7C%20JavaScript-2E75B6?style=flat-square&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-19%2B%20years-success?style=flat-square)
 
 ---
 
